@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airnexo2/static/css/main.446ee202.css",
+    "main.js": "/airnexo2/static/js/main.5c390cd0.js",
+    "static/media/coding.svg": "/airnexo2/static/media/coding.0ee6782ca98766f43ef4f3bf48abbd56.svg",
+    "static/media/logo.svg": "/airnexo2/static/media/logo.624693489ac30588bf870f31f9da391a.svg",
+    "index.html": "/airnexo2/index.html",
+    "main.446ee202.css.map": "/airnexo2/static/css/main.446ee202.css.map",
+    "main.5c390cd0.js.map": "/airnexo2/static/js/main.5c390cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.446ee202.css",
+    "static/js/main.5c390cd0.js"
+  ]
+}
